@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Raleway", sans-serif !important;
+}
+.navbar{    
+    background: rgb(199,25,142);
+background: linear-gradient(90deg, rgba(199,25,142,1) 15%, rgba(186,15,175,0.8311688311688312) 47%, rgba(15,159,213,1) 99%);
+}
+.nav-link{
+    color: black!important;
+    font-weight: bold !important;
+    font-size: 1 rem !important;
+    border-radius: 10px;
+}
+.nav-link:hover{
+    color: black;
+    background-color:#f604c8;
+    
+}
+.btn-primary:hover{
+    background-color:#f604c8 !important ;
+    border: none ;
+}
+.navbar-toggler-icon {
+    background-color: #f604c8 !important;
+   
+}
+.butn {
+    background-color: #f604c8 !important;
+    border:none;
+    color: black;
+    font-weight: bold !important;
+}
+.butn:hover{
+    background-color:  #4895ef !important;
+    border:none;
+    color: black;
+    font-weight: bold !important;
+}
+/* .hero-section{
+    background: rgb(22,169,224);
+background: linear-gradient(90deg, rgba(22,169,224,1) 16%, rgba(154,24,233,1) 47%, rgba(255,0,206,1) 97%);
+} */
+ .tts{
+    color: #f604c8;
+ } 
+ .ttc{
+    color: #4895ef;
+ }
+ .card-text{ 
+    color: #4895ef !important;
+ }
+ .card-title{
+    color: #f604c8 !important;
+
+ }
+ .card:hover{
+    zoom: 150%;
+ }
+ .card-img-top{
+    height: 220px;
+    width: 125px;
+ }
+ .ttff{
+    color: #f604c8;
+ }
