@@ -62,6 +62,6 @@ background: linear-gradient(90deg, rgba(22,169,224,1) 16%, rgba(154,24,233,1) 47
     height: 220px;
     width: 125px;
  }
- .ttff{
-    color: #f604c8;
+ .btn-info{
+    color: #f604c8 !important;
  }
